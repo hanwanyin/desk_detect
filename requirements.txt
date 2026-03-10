@@ -1,6 +1,8 @@
 streamlit
-zai-sdk>=0.2.2
-python-dotenv
 qrcode
-pillow
 plotly
+python-dotenv
+zai-sdk
+Pillow          # qrcode 依赖的图像处理库
+requests        # 用于加载 Lottie 动画（可选，但建议安装）
+streamlit-lottie # 可选，用于显示 Lottie 动画，若不安装则回退为文本提示
