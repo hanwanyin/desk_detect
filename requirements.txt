@@ -3,3 +3,6 @@ zai-sdk>=0.2.2
 python-dotenv
 qrcode
 pillow
+plotly
+python-dotenv
+zhipuai
