@@ -4,5 +4,3 @@ python-dotenv
 qrcode
 pillow
 plotly
-python-dotenv
-zhipuai>=2.0.0
